@@ -1,0 +1,24 @@
+# Pixelle-Video runtime dependencies (derived from pyproject.toml)
+# 用法: pip install -r requirements.txt
+fastmcp>=2.0.0
+pydantic>=2.0.0
+loguru>=0.7.0
+pyyaml>=6.0.0
+edge-tts==7.2.7
+certifi>=2025.10.5
+ffmpeg-python>=0.2.0
+httpx>=0.28.1
+pillow>=10.0.0,<12
+streamlit>=1.40.0
+openai>=2.6.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.12
+comfykit>=0.1.12
+beautifulsoup4>=4.14.2
+moviepy>=2.0.0
+playwright>=1.58.0
+dashscope>=1.23.0
+requests>=2.32.0
+pyjwt>=2.10.0
+numpy>=1.26.0
